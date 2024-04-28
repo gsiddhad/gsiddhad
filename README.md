@@ -1,5 +1,3 @@
-### Hi there 👋
-<img src="https://github-readme-stats.vercel.app/api?username=gsiddhad&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <h1 align="center">Hi 👋, I'm Gourav Siddhad</h1>
 <h3 align="center">A Research Scholar (PhD) at Indian Institute of Technology Roorkee, India</h3>
 
