@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Gourav Siddhad</h1>
-<h3 align="center">A Research Scholar (PhD) at Indian Institute of Technology Roorkee, India</h3>
+<h1 align="center">Hi 👋, I'm Dr. Gourav Siddhad</h1>
+<h3 align="center">PhD from Indian Institute of Technology Roorkee, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gsiddhad&label=Profile%20views&color=0e75b6&style=flat" alt="gsiddhad" /> </p>
 
