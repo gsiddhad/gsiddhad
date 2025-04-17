@@ -39,7 +39,7 @@
 <h2 align="center">Publications</h2>
 
 - **Gourav Siddhad**, Masakazu Iwamura, Partha Pratim Roy. **Enhancing EEG Signal-based Emotion Recognition with Synthetic Data: Diffusion Model Approach**. arXiv:2401.16878.
-[Paper]
+<br>[Paper]
 
 - **Gourav Siddhad**, Juhi Singh, Partha Pratim Roy. **MECASA: Motor Execution Classification using Additive Self-Attention for Hybrid EEG-fNIRS Data**. arXiv:2501.05525.
 [Paper]
