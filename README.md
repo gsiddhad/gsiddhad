@@ -35,3 +35,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gsiddhad&show_icons=true&locale=en" alt="gsiddhad" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gsiddhad&" alt="gsiddhad" /></p>
+
+<h2 align="center">Publications</h2>h2>
