@@ -38,29 +38,47 @@
 
 <h2 align="center">Publications</h2>
 
-- **Gourav Siddhad**, Masakazu Iwamura, Partha Pratim Roy. **Enhancing EEG Signal-based Emotion Recognition with Synthetic Data: Diffusion Model Approach**. arXiv:2401.16878.
+- **Gourav Siddhad**, Masakazu Iwamura, Partha Pratim Roy
+<br>**Enhancing EEG Signal-based Emotion Recognition with Synthetic Data: Diffusion Model Approach**
+<br>arXiv:2401.16878
 <br><a href="doi.org/10.48550/arXiv.2401.16878">DOI</a>
 
-- **Gourav Siddhad**, Juhi Singh, Partha Pratim Roy. **MECASA: Motor Execution Classification using Additive Self-Attention for Hybrid EEG-fNIRS Data**. arXiv:2501.05525.
+- **Gourav Siddhad**, Juhi Singh, Partha Pratim Roy
+<br>**MECASA: Motor Execution Classification using Additive Self-Attention for Hybrid EEG-fNIRS Data**
+<br>arXiv:2501.05525
 <br><a href="doi.org/10.48550/arXiv.2501.05525">DOI</a>
 
-- **Gourav Siddhad**, Sayantan Dey, Partha Pratim Roy, Masakazu Iwamura. **Awake at the Wheel: Enhancing Automotive Safety through EEG-Based Fatigue Detection**. 27th International Conference on Pattern Recognition (ICPR), 2024.
+- **Gourav Siddhad**, Sayantan Dey, Partha Pratim Roy, Masakazu Iwamura
+<br>**Awake at the Wheel: Enhancing Automotive Safety through EEG-Based Fatigue Detection**
+<br>27th International Conference on Pattern Recognition (ICPR), 2024
 <br><a href="doi.org/10.1007/978-3-031-78195-7_23">DOI</a> [Core2023: B]
 
-- **Gourav Siddhad**, Partha Pratim Roy, Byung-Gyu Kim. **Neural Network Meet Neural Activity: Utilizing EEG for Mental Workload Estimation**. 27th International Conference on Pattern Recognition (ICPR), 2024.
+- **Gourav Siddhad**, Partha Pratim Roy, Byung-Gyu Kim
+<br>**Neural Network Meet Neural Activity: Utilizing EEG for Mental Workload Estimation**
+<br>27th International Conference on Pattern Recognition (ICPR), 2024
 <br><a href="doi.org/10.1007/978-3-031-78195-7_22">DOI</a> [Core2023: B]
 
-- **Gourav Siddhad**, Sayantan Dey, Partha Pratim Roy. **DrowzEE-G-Mamba: Leveraging EEG and State Space Models for Driver Drowsiness Detection**. 27th International Conference on Pattern Recognition (ICPR), 2024.
+- **Gourav Siddhad**, Sayantan Dey, Partha Pratim Roy
+<br>**DrowzEE-G-Mamba: Leveraging EEG and State Space Models for Driver Drowsiness Detection**
+<br>27th International Conference on Pattern Recognition (ICPR), 2024
 <br><a href="doi.org/10.1007/978-3-031-78398-2_19">DOI</a> [Core2023: B]
 
-- **Gourav Siddhad**, Anmol Gupta, Debi Prosad Dogra, Partha Pratim Roy. **Efficacy of Transformer Networks for Classification of Raw EEG Data**. Biomedical Signal Processing and Control. Volume 87, Part B, 105488, 2024.
+- **Gourav Siddhad**, Anmol Gupta, Debi Prosad Dogra, Partha Pratim Roy
+<br>**Efficacy of Transformer Networks for Classification of Raw EEG Data**
+<br>Biomedical Signal Processing and Control. Volume 87, Part B, 105488, 2024
 <br><a href="doi.org/10.1016/j.bspc.2023.105488">DOI</a> [Q1] [IF: 5.1]
 
-- **Gourav Siddhad**, Pritee Khanna. **Max-min threshold-based cancelable biometric templates for low-end devices**. Journal of Electronic Imaging. 31(3), 033025, 2022.
+- **Gourav Siddhad**, Pritee Khanna
+<br>**Max-min threshold-based cancelable biometric templates for low-end devices**
+<br>Journal of Electronic Imaging. 31(3), 033025, 2022
 <br><a href="doi.org/10.1117/1.JEI.31.3.033025">DOI</a> [Q2] [IF: 1.1]
 
-- Anmol Gupta, **Gourav Siddhad**, Vishal Pandey, Partha Pratim Roy, Byung-Gyu Kim. **Subject-Specific Cognitive Workload Classification Using EEG-Based Functional Connectivity and Deep Learning**. MDPI Sensors. 2021; 21 (20):6710.
+- Anmol Gupta, **Gourav Siddhad**, Vishal Pandey, Partha Pratim Roy, Byung-Gyu Kim
+<br>**Subject-Specific Cognitive Workload Classification Using EEG-Based Functional Connectivity and Deep Learning**
+<br>MDPI Sensors. 2021; 21 (20):6710
 <br><a href="sciprofiles.com/publication/view/81acac7d0896512ef9f76e3869c69618">DOI</a> [Q1] [IF: 3.9]
 
-- **Gourav Siddhad**, Pritee Khanna, Aparajita Ojha. **Cancelable Biometric Template Generation Using Convolutional Autoencoder**. International Conference on Computer Vision and Image Processing, Springer, Singapore. 303–314, 2021.
+- **Gourav Siddhad**, Pritee Khanna, Aparajita Ojha
+<br>**Cancelable Biometric Template Generation Using Convolutional Autoencoder**
+<br>International Conference on Computer Vision and Image Processing, Springer, Singapore. 303–314, 2021
 <br><a href="link.springer.com/chapter/10.1007/978-981-16-1086-8_27">DOI</a>
