@@ -36,6 +36,18 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gsiddhad&" alt="gsiddhad" /></p>
 
+<h2 align="center">Thesis</h2>
+
+- **Gourav Siddhad** and Partha Pratim Roy
+<br>**Towards Human Behavior Prediction using EEG: Analyzing Cognitive Workload and Emotional Responses**
+<br>Indian Institute of Technology Roorkee
+<br>Ph.D., April 2025
+
+- **Gourav Siddhad** and Pritee Khanna
+<br>**Cancelable Biometric Templates for Low-End Devices**
+<br>PDPM Indian Institute of Information Technology, Design, and Manufacturing, Jabalpur
+<br>M.Tech, August 2020
+
 <h2 align="center">Publications</h2>
 
 - **Gourav Siddhad**, Masakazu Iwamura, Partha Pratim Roy
